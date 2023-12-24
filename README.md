@@ -5,11 +5,15 @@
 This is a personal portfolio website built using React. It showcases my projects, skills, and provides information about me.
 
 ## Table of Contents
-
+- [Usage](#usage)
 - [Features](#features)
 - [Installation](#installation)
 - [Screenshots](#screenshots)
 - [License](#license)
+
+## Usage
+
+View the deployed website [here](https://sunny-starlight-ed2373.netlify.app/).
 
 
 ## Features
