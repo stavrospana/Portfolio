@@ -28,3 +28,6 @@ This is a personal portfolio website built using React. It showcases my projects
    ```bash
    git clone https://github.com/stavrospana/Portfolio.git
 
+![image](https://github.com/stavrospana/Portfolio/assets/138176781/664c2a1f-0187-4de8-b0c5-3f17f09f8a75)
+
+
