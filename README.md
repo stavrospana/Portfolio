@@ -8,12 +8,9 @@ This is a personal portfolio website built using React. It showcases my projects
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
 - [License](#license)
-- [Author](#author)
+
 
 ## Features
 
@@ -27,7 +24,8 @@ This is a personal portfolio website built using React. It showcases my projects
 
    ```bash
    git clone https://github.com/stavrospana/Portfolio.git
-
+## Screenshots
 ![image](https://github.com/stavrospana/Portfolio/assets/138176781/664c2a1f-0187-4de8-b0c5-3f17f09f8a75)
 
-
+## License<a name="license"></a>
+  This application uses the MIT License. For more information regarding usage, please visit [this link](https://opensource.org/licenses/MIT).
